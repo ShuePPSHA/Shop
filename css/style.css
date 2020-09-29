@@ -267,28 +267,9 @@ input[type="image"] {
   .search {
     width: 320px;
     /* Ширина поля с кнопкой 320 */
-    height: 32px;
-    border-radius: 5px;
-    background-color: #F9F9F9;
-    border: solid 1px black;
-    /* Убрать */
   }
   input[type="search"] {
-    border: none;
-    outline: none;
-    -webkit-appearance: none;
     width: 270px;
-    vertical-align: middle;
-    margin: 0px 0px 8px 15px;
-    opacity: 40%;
-    background-color: #F9F9F9;
-    font-family: Lato;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 14px;
-  }
-  input[type="image"] {
-    margin: 7px 0px 0px 0px;
   }
 }
 
