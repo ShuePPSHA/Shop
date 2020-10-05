@@ -1,0 +1,71 @@
+<div class="brands__slider">
+        <div class="brands__slideshow">
+            <a href="#">
+              <div class="brands__slideshow-slides fade">
+               <img src="img/banner.jpg">
+                <div class="brands__slideshow-text">
+
+                    <div class="brands__slideshow-producname">
+                        Влагозащищённые
+                        гироскутеры Jack Hot
+                    </div>
+                    <div class="brands__slideshow-producinfo">
+                        снова в наличии
+                    </div>
+                </div>
+              </div>
+            </a>
+           <a href="#">
+              <div class="brands__slideshow-slides fade">
+               <img src="img/banner.jpg">
+                <div class="brands__slideshow-text">
+                    
+                    <div class="brands__slideshow-producname">
+                        Влагозащищённые
+                        гироскутеры Jack Hot
+                    </div>
+                    <div class="brands__slideshow-producinfo">
+                        снова в наличии
+                    </div>
+                </div>
+              </div>
+            </a>
+            <a href="#">
+                <div class="brands__slideshow-slides fade">
+                 <img src="img/banner.jpg">
+                  <div class="brands__slideshow-text">
+                      
+                      <div class="brands__slideshow-producname">
+                          Влагозащищённые
+                          гироскутеры Jack Hot
+                      </div>
+                      <div class="brands__slideshow-producinfo">
+                          снова в наличии
+                      </div>
+                  </div>
+                </div>
+              </a>
+              <a href="#">
+                <div class="brands__slideshow-slides fade">
+                 <img src="img/banner.jpg">
+                  <div class="brands__slideshow-text">
+                      
+                      <div class="brands__slideshow-producname">
+                          Влагозащищённые
+                          гироскутеры Jack Hot
+                      </div>
+                      <div class="brands__slideshow-producinfo">
+                          снова в наличии
+                      </div>
+                  </div>
+                </div>
+              </a>
+        </div>
+        <br>
+        <div class="brands__slider-dots">
+          <span class="dot" onclick="currentSlide(1)"></span>
+          <span class="dot" onclick="currentSlide(2)"></span>
+          <span class="dot" onclick="currentSlide(3)"></span>
+          <span class="dot" onclick="currentSlide(4)"></span>
+        </div>
+    </div>  
