@@ -250,19 +250,20 @@ align-items: center;}
          height: 360px;
 
          &:first-child {
-            display:flex;
+            display: block;
+            background: linear-gradient(98.43deg, rgba(3, 0, 155, 0.4) 9.28%, rgba(255, 255, 255, 0) 100%), #82D2FF;
           }
-         &:nth-of-type(1) {
+         &:nth-child(1) {
             background: linear-gradient(98.43deg, rgba(3, 0, 155, 0.4) 9.28%, rgba(255, 255, 255, 0) 100%), #82D2FF;
          }
-         &:nth-of-type(2) {
-           background: linear-gradient(98.43deg, rgba(3, 0, 155, 0.4) 9.28%, rgba(255, 255, 255, 0) 100%), #82D2FF;
-         }
-         &:nth-of-type(3) {
-           background: linear-gradient(98.43deg, rgba(3, 0, 155, 0.4) 9.28%, rgba(255, 255, 255, 0) 100%), #82D2FF;
-         }
-         &:nth-of-type(4) {
-           background: linear-gradient(98.43deg, rgba(3, 0, 155, 0.4) 9.28%, rgba(255, 255, 255, 0) 100%), #82D2FF;
+         &:nth-child(2) {
+           background: url(../img/background.png) repeat center; // Почему эта хуета не работает????????????????777777777777777777777777777777777
+         } 
+         &:nth-child(3) { 
+           background: url(../img/background.png) repeat  center;
+         } 
+         &:nth-child(4) { 
+           background: url(../img/background.png) repeat  center;
          }
       }
       &__slide-text {

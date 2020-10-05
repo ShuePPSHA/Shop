@@ -71,7 +71,7 @@ window.onclick = function(event) {
         } else {
           move(0);
         }
-      }, 4000000);
+      }, 7000);
     }
     
     $('.next_btn').on('click', function() {
