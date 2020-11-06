@@ -15,6 +15,13 @@ window.onclick = function(event) {
     }
   } 
 
+
+
+  //slider
+
+
+
+
   $('.brands__slider').each(function() {
     var $this = $(this);
     var $group = $this.find('.brands__slideshow');
